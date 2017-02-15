@@ -19,5 +19,5 @@ Content format includes
 # how to use
 
 ```shell
-./md2pdf.sh /path/to/input.md /path/to/output.pdf
+/path/to/md2pdf.sh input.md output.pdf
 ```
